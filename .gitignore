@@ -1,0 +1,12 @@
+Python + OpenCV/entrenamiento.yml
+Python + OpenCV/labels.pickle
+Python + Tensor/modelo/*
+Python + Tensor/convert/*
+Vision/x64
+Vision/.vs
+Vision/Vision/opencv
+Vision/Vision/photo.jpg
+DataAnalisis/__pycache__
+DataAnalisis/.vscode
+.idea
+.vscode

@@ -1,0 +1,8 @@
+http://app.visgraf.impa.br/database/faces/download-with-email/
+https://www.kaggle.com/shawon10/ckplus
+http://www.consortium.ri.cmu.edu/ckagree/index.cgi
+https://www.kaggle.com/jessicali9530/lfw-dataset
+
+dataset google
+I agree that I will cite one of the following publications if I use this dataset in my work.
+R Vemulapalli, A Agarwala, “A Compact Embedding for Facial Expression Similarity”, CoRR, abs/1811.11283, 2018.

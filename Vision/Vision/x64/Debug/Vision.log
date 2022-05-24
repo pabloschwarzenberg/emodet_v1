@@ -1,0 +1,9 @@
+﻿  Clasificar.cpp
+D:\Proyectos\Repositorio\Tesis\Vision\Vision\libtensorflow-cpu-windows-x86_64-1.15.0\include\tensorflow\c\c_api.h(935,68): warning C4190: 'TF_NewWhile' tiene una vinculación C especificada, pero devuelve el tipo definido por el usuario 'TF_WhileParams' que es incompatible con C
+D:\Proyectos\Repositorio\Tesis\Vision\Vision\libtensorflow-cpu-windows-x86_64-1.15.0\include\tensorflow\c\c_api.h(891): message : vea la declaración de 'TF_WhileParams'
+D:\Proyectos\Repositorio\Tesis\Vision\Vision\Clasificar.cpp(55,43): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Proyectos\Repositorio\Tesis\Vision\Vision\Clasificar.cpp(69,17): warning C4477: 'fprintf' : la cadena de formato '%zu' requiere un argumento de tipo 'unsigned __int64', pero el argumento variádico 1 tiene el tipo 'int'
+D:\Proyectos\Repositorio\Tesis\Vision\Vision\Clasificar.cpp(69,17): message : considere el uso de ' %u' en la cadena de formato
+D:\Proyectos\Repositorio\Tesis\Vision\Vision\Clasificar.cpp(69,17): message : considere el uso de ' %I32u' en la cadena de formato
+D:\Proyectos\Repositorio\Tesis\Vision\Vision\Clasificar.cpp(48,9): warning C4101: 'i': variable local sin referencia
+  Vision.vcxproj -> D:\Proyectos\Repositorio\Tesis\Vision\x64\Debug\Vision.exe
